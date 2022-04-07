@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bitácora de Viaje</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Blog on Bitácora de Viaje</description>
+    <title>Blog on Bitácora de Viaje de Clemente Flores</title>
+    <link>https://clementepsi.github.io/my_launchx_blog/posts/</link>
+    <description>Recent content in Blog on Bitácora de Viaje de Clemente Flores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://clementepsi.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
+      <title>Los recuerdos de LaunchX</title>
+      <link>https://clementepsi.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://clementepsi.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Buen dia a todos,
+Al mencionar Launchx, las emociones y recuerdos que se tienen son variadas ya que a este curso ingrese teniendo una noción básica por no decir nula en la progración, sin embargo, el onboarding fue crucial para tomar confianza en las habilidades con las que yo contaba y así adentrarme al siguiente gran reto llamado Frontend.
+Frontend mostros ser en un inicio un tema que era accesible a las capacidades con las que contaba llamado HTML, pero&amp;hellip; y escribo &amp;ldquo;pero&amp;rdquo; porque en todas las buenas historias aparece ese reto en el que las cosas cambian y ese fue CSS, al ser un tema tan amplio y temas complejos resulto dificil la inmersion en el tema.</description>
+    </item>
+    
+    <item>
+      <title>La cultura de un Desarrollad@r de Software</title>
+      <link>https://clementepsi.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://clementepsi.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Hola,
+Para mi la cultura que tiene que tener una persona que este dentro del mundo de Desarrollo de Software tendría que estar basado en los siguientes puntos:
+ Trabajo en Equipo. Respeto. Comunicación Efectiva. Tolerancia. Honestidad. Compromiso. Empatia.  Los puntos anteriormente mencionados, considero que serian puntos clave para que se tenga una buena cultura, esto beneficie no solo a la persona en su entorno sino tambien a la empresa donde el se desempeñe y por lo tanto a los objetivos que se tengan trazados.</description>
     </item>
     
   </channel>
